@@ -15,6 +15,6 @@ GrahamLi
 
 My Favorite 3 Programming Languages
 --------------------------------
-C
-C++
-java
+- C
+- C++
+- java
